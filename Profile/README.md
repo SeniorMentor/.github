@@ -10,12 +10,7 @@
 
 
 ---
-
-<br>
-
-Checkout https://seniormentor.netlify.app/ 
-
-Features 
+Some Features 
 ---
 
 > <ul>
