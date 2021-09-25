@@ -1,7 +1,7 @@
 
 ---
 
-<img align="left" src="client/src/assets/img/smgif.gif" width="100" height="100" />
+<img align="left" src="assets/gif/smgif.gif" width="100" height="100" />
 
 <div align="center" > 
 <h1><b> Seniormentor </b></h1>  
@@ -30,13 +30,13 @@ Images and Demo
 ---
 
 <div>
-  <img src="./zdocs/gif1.gif" width="200" height="400"/>
-  <img src="./zdocs/gif2.gif" width="200" height="400"/>
-  <img src="./zdocs/gif3.gif" width="200" height="400"/>
+  <img src="assets/gif/gif1.gif" width="200" height="400"/>
+  <img src="assets/gif/gif2.gif" width="200" height="400"/>
+  <img src="assets/gif/gif3.gif" width="200" height="400"/>
 </div>
 
 
-Installation  
+Installation  `deprecated - will be updated in some time`
 --- 
   Clone the repo
 
@@ -63,7 +63,7 @@ High Level Design
 Use case diagram for Seniormentor
 ```
 
-<img align="center" src="client/src/assets/img/hld.png" />
+<img align="center" src="assets/img/hld.png" />
 
 Low Level Design
 ---
@@ -73,5 +73,5 @@ Note : Although it's a NoSQL db, the database design would be as shown below
 if it were a relational database.
 Collections are connected using refs. 
 ```
-<img align="center" src="client/src/assets/img/uml.png" />
+<img align="center" src="assets/img/uml.png" />
 
